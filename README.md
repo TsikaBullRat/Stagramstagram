@@ -1,6 +1,6 @@
 # Welcome to Stagramstagram
 
-(/Logo.jpg)
+![BullRat Logo](/resources/images//Logo.jpg)
 
 ## WTF
 Hi, hello, my name is Ntsikayomzi Phenyo Ngcakani. To those who actually bother to read the readme. Please feel free to follow me on this journey as I try to take a detailed look, into
