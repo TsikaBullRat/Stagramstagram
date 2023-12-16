@@ -29,3 +29,22 @@ Another thing people use node.js for. Firstly understand that though the intenti
 server it unintentionally gave javascript the ability to work as a regular [OOP](https://techterms.com/definition/oop). So people are now able to build different modules using Nodejs. Programmers usually build modules and put them together to build a programme with a specific function. Majority of people send this programme to a seperate programme called a package management system. The one related to node is called [npm](https://www.npmjs.com/). This allows people to use other peoples pre-built programmes by simply installing the package into you're own. Which brings us to the first Node.js concept.
 
 ## package.json
+This is a file that basically holds information about the entire project. It also allows for basic functionallity. For example if there are bash/shell scripts require package.json will have this information.
+This is written in [json](https://www.w3schools.com/js/js_json_intro.asp). The first 2 fields we require is 
+name and version. For now this is all we'll add on our package.json file.
+
+## Node and Modules
+Node allows you to use different [modules](https://www.w3schools.com/nodejs/nodejs_modules.asp) to do different things let's have a look at some of the module in our project.
+
+### - index.js
+Here we will add simple code to run our entire project. Consider this the starting point of our program.
+### - engine.js
+Next we'll have engine.js to run the entire project all logic required etc.
+### - http.js
+This module will run our website
+### - ftp.js 
+Here we will run our file transfers etc
+### - data.js
+This will be used for our data base manipulation
+### - clean.ts
+Here we will play with some typescript to create a way to clean the project(We will go into detail later)
