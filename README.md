@@ -46,5 +46,9 @@ This module will run our website
 Here we will run our file transfers etc
 ### - data.js
 This will be used for our data base manipulation
-### - clean.ts
+### - index.ts
 Here we will play with some typescript to create a way to clean the project(We will go into detail later)
+
+
+# Notes:
+Server built and functional
